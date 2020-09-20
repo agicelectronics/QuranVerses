@@ -19,7 +19,7 @@ Quran class properties:
     
     
     
-#Quran class public methods:
+##Quran class public methods:
 
 // Returns all verses of specified Surah by number and specified language
 public List<string> GetVerses(int surahNumberParam, string languageParam)
