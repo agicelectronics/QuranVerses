@@ -24,7 +24,7 @@ Quran class properties:
 // Returns all verses of specified Surah by number and specified language
 public List<string> GetVerses(int surahNumberParam, string languageParam)
 
-#Method Parameters:
+##Method Parameters:
 int surahNumberParam - 1-114
 string languageParam - "bih", "en", "de" or Constants.LanguageBosnian,Constants.LanguageEnglish and Constants.LanguageGerman
 
